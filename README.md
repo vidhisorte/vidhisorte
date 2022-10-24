@@ -18,9 +18,9 @@
 <h3 align="left">Github stats :</h3>
 <p align="center">
 <div>
-<img height="220" src="https://github-readme-stats.vercel.app/api?username=vidhisorte&show_icons=true&theme=merko">
+<img height="220" src="https://github-readme-stats.vercel.app/api?username=vidhisorte&show_icons=true&theme=dark">
      
-<img height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidhisorte&count_private=true&langs_count=4&title_color=#3080ED&icon_color=#3080ED&text_color=white&bg_color=#ffffff">
+<img height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidhisorte&langs_count=8&count_private=true&layout=compact&theme=dark">
 </div>
 </p>
 
