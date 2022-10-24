@@ -24,9 +24,9 @@
 <h3 align="left">Github stats :</h3>
 <p align="center">
 <div>
-<img height="200" src="https://github-readme-stats.vercel.app/api?username=vidhisorte&show_icons=true&theme=dark">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=vidhisorte&show_icons=true&theme=dark">
      
-<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidhisorte&langs_count=8&count_private=true&layout=compact&theme=dark">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidhisorte&langs_count=8&count_private=true&layout=compact&theme=dark">
 </div>
 </p>
 
