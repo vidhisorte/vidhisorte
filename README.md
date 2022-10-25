@@ -9,7 +9,7 @@
 
 <p align="right">
  -->
-<img align="right" alt="GIF" src="https://istevit.in/public/imgs/tech.gif" width="450" height="350" margin="50">
+<img align="left" alt="GIF" src="https://istevit.in/public/imgs/tech.gif" width="450" height="350" margin="50">
 
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vidhisorte&label=Profile%20views&color=blueviolet&style=plastic" alt="vidhisorte" /> </p>
