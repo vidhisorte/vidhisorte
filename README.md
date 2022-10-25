@@ -2,9 +2,11 @@
 <h3 align="center">Competitive Programmer and Front-end web developer</h3>
 <h4 align="center">Third year computer engineering student at Pune Institute of Computer Technology</h4>
 <br>
-<div>
-<img align="centre" alt="GIF" src="https://miro.medium.com/max/828/1*vJjJ3Mdok6Rvxx85IIRqBQ.gif" width="550" height="400" />
-</div>
+
+<p align="center">
+<img alt="GIF" src="https://miro.medium.com/max/828/1*vJjJ3Mdok6Rvxx85IIRqBQ.gif" width="550" height="400" >
+</p>
+
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vidhisorte&label=Profile%20views&color=blueviolet&style=plastic" alt="vidhisorte" /> </p>
 <br>
