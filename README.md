@@ -2,10 +2,14 @@
 <h3 align="center">Competitive Programmer and Front-end web developer</h3>
 <h4 align="center">Third year computer engineering student at Pune Institute of Computer Technology</h4>
 <br>
-
+<!--
 <p align="center">
 <img alt="GIF" src="https://miro.medium.com/max/828/1*vJjJ3Mdok6Rvxx85IIRqBQ.gif" width="550" height="400" >
 </p>
+
+<p align="right">
+ -->
+<img align="right" alt="GIF" src="https://istevit.in/public/imgs/tech.gif" width="400" height="300" >
 
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vidhisorte&label=Profile%20views&color=blueviolet&style=plastic" alt="vidhisorte" /> </p>
